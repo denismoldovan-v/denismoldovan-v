@@ -21,7 +21,7 @@ At university, I’m involved in practical cybersecurity labs, signal processing
 ## 📚 Relevant Courses (WUT – Cybersecurity BSc)
 
 - Algorithms and Programming  
-- Introduction to Cybersecurity  
+- Security of Software & Systems
 - Data Security & Big Data  
 - Internet Networks and Cloud Systems (BGP, RIP, SNMP, lab work)  
 - Internet Services and Applications  
@@ -29,6 +29,7 @@ At university, I’m involved in practical cybersecurity labs, signal processing
 - Signals and Systems  
 - Fundamentals of Digital Circuits  
 - Discrete Mathematics, Applied Probability
+- Computer Systems: Architecture and Programming
 
 ---
 
