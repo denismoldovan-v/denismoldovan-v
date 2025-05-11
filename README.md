@@ -14,7 +14,7 @@ At university, I’m involved in practical cybersecurity labs, signal processing
 - 🛠️ **Tools**: Git, GTKWave, Icarus Verilog, ModelSim, Metasploit, Recon-ng, Wireshark  
 - 🌐 **Protocols**: BGP, RIP, SNMP, HTTP, TCP/UDP, ICMP  
 - 🧪 **Environments**: Linux CLI, PowerShell, Mininet, Windows, VirtualBox  
-- 🌍 **Languages spoken**: 🇺🇦 Ukrainian (native), 🇷🇺 Russian (native), 🇬🇧 English (B2+), 🇵🇱 Polish (B2)
+- 🌍 **Languages spoken**: 🇺🇦 Ukrainian (native), 🇷🇺 Russian (native), 🇬🇧 English (C1), 🇵🇱 Polish (C1)
 
 ---
 
