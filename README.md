@@ -73,6 +73,7 @@ Python script using OpenAI’s GPT to intelligently sort incoming JSON-based ema
 
 ## 📫 Contact
 
+- Personal Website: (https://denismoldovan.com) 
 - GitHub: [denismoldovan-v](https://github.com/denismoldovan-v)  
 - Email: iamdenismoldovan@gmail.com  
 - LinkedIn: [linkedin.com/in/denis-moldovan](https://www.linkedin.com/in/denis-moldovan)
